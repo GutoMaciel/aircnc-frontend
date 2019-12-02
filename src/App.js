@@ -6,6 +6,7 @@ import logo from './assets/logo.svg';
 import Routes from './routes';
 
 function App() {
+  // localStorage.clear();
   return (
     <div className="container">
       <img src={logo} alt="AirCnC"/>
